@@ -1,4 +1,4 @@
-package duongkhatoan25d.gmail.com.example.emojitask;
+package duongkhatoan25d.gmail.com.example.emojimodifile;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("duongkhatoan25d.gmail.com.example.emojitask", appContext.getPackageName());
+        assertEquals("duongkhatoan25d.gmail.com.example.emojimodifile", appContext.getPackageName());
     }
 }

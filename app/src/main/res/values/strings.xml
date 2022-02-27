@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">EmojiTask</string>
+    <string name="app_name">EmojiModifile</string>
+    <string name="ba_n_qua_ga_ha_y_th_la_i" />
+    <string name="quay_la_i" />
+    <string name="hay_l_m_ti_p_tu_c_na_o" />
+    <string name="string_ti_p_tu_c" />
 </resources>
